@@ -1,4 +1,4 @@
-package com.itzblaze.assignments;
+package assignments;
 
 /******************************************************************************
  * A DoubleArraySequence is a collection of double numbers.
